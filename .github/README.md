@@ -1,5 +1,5 @@
-#CUSTOM
-##Git
+# CUSTOM
+## Git
 git remote add upstream https://github.com/end-4/dots-hyprland
 git fetch upstream
 git rebase upstream/main
