@@ -1,8 +1,8 @@
 # CUSTOM
 ## Git
-git remote add upstream https://github.com/end-4/dots-hyprland
-git fetch upstream
-git rebase upstream/main
+ git remote add upstream https://github.com/end-4/dots-hyprland
+ git fetch upstream
+ git rebase upstream/main
 
 <div align="center">
     <h1>【 end_4's Hyprland dotfiles 】</h1>
